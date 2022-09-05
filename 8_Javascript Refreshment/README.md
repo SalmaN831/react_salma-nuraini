@@ -62,3 +62,33 @@ Extends digunakan untuk membuat kelas anak dari kelas induk. Kelas anak mewarisi
 * Await adalah sebuah keyword yang terdapat pada async function yang tujuannya menghentikan eksekusi sambil menunggu promise-nya selesai
 
 ## DOM
+Document Object Model (DOM) adalah API untuk HTML yang merepresentasikan halaman web pada suatu dokumen menjadi sebuah object.
+* DOM Selection Method
+
+| Event | Kegunaan |
+| ----------- | --------- |
+| getElementById() | Element |
+| getElementByTagName() | HTMLCollection |
+| getElementByClassName() | HTMLCollection |
+| querySelector() | Element |
+| querySelectorAll() | nodeList |
+
+* DOM Manipulation
+
+| Event | Kegunaan |
+| ----------- | --------- |
+| element.innerHTML | Merubah isi dari tag yang sudah diseleksi |
+| element.style.< propertyCSS > | Merubah style dari tag yang sudah diseleksi |
+| element.setAttribute() | Mengelola/memanipulasi attribute yang sudah diseleksi |
+| element.classList.add() | Mengelola/memanipulasi class yang sudah diseleksi |
+
+* DOM Event
+
+| Event | Kegunaan |
+| ----------- | --------- |
+| onclick | Digunakan ketika user mengklik mouse |
+| onchange | Digunakan dalam kombinasi dengan validasi bidang input |
+| onblur | Digunakan ketika user meninggalkan kolom input |
+| onmouseover | Digunakan ketika user mengarahkan mouse ke atas suatu object |
+| onmouseout | Digunakan ketika user mengarahkan mouse ke luar suatu object |
+| oncopy | Digunakan ketika user mencopy suatu object |
