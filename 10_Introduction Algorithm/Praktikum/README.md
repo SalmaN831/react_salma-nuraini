@@ -8,7 +8,7 @@
 ## Nomer 2
 1. Input jumlah tombol (N) digunakan untuk memasukkan jumlah tombol sejumlah N
 2. i = 1, dimana i adalah tombol ke-i yang ditekan
-3. lampu = "mati", digunakan untuk memberikan kondisi kepada lampu
+3. lampu = "mati", digunakan untuk memberikan kondisi kepada lampu, yaitu mati
 4. Looping digunakan hingga mencapai i > N
 5. Kemudian digunakan selection untuk mengecek apakah N habis dibagi i, jika iya maka akan diteruskan ke selection berikutnya yang berarti keadaan lampu akan berubah
 6. Pada selection berikutnya dilakukan pengecekan terhadap kondisi lampu, apabila lampu = "mati" maka lampu akan berganti menjadi "nyala", jika tidak maka lampu akan tetap pada keadaan "mati"
