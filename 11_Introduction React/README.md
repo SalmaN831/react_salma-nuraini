@@ -20,8 +20,8 @@ Masalah yang dihadapi dengan DOM :
 
 ## Set Up Development
 
-* ls : 
-* mkdir : membuat directory
-* cd : berpindah ke directory lain
+* ls : menampilkan list folder
+* mkdir : membuat folder
+* cd : berpindah ke folder lain
 * mv : memindah folder atau merubah nama folder
 * rm : menghapus folder
