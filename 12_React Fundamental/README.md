@@ -16,6 +16,9 @@ Pada React, kita dapat membuat komponen berbeda yang mencakup perilaku yang dibu
 * Inline If-Else dengan ternary conditional operator
 * Mencegah komponen untuk rendering
 
+### Render List
+Kita dapat membangun koleksi dari beberapa elemen dan menyertakannya dalam JSX menggunakan tanda kurung kurawal {}
+
 ## Directory Structure
 
 ## Styling Inline
