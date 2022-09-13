@@ -19,6 +19,19 @@ Membuat komponen pada react
 * Class : extend dari React component
 
 ## Component Kompotition
+Props adalah singkatan dari properties yang membuat kita dapat memberikan argumen/data pada komponen
+
+Props membantu untuk membuat komponen menjadi lebih dinamis
+
+Props dioper ke komponen sama seperti memberi atribut atribut pada tag HTML
+
+Props pada komponen adalah read-only dan tidak dapat diubah
+
+One Way Data Flow : artinya komponen parent dapat mentransfer data melalui props ke komponen children, namun tidak sebaliknya
+
+Komposisi komponen
+* Kontainmen
+* Spesialisasi
 
 ## React Lifecycle
 
