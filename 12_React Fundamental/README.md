@@ -12,6 +12,11 @@ Spesifikasi pada JSX
 * Huruf kecil untuk komponen bawaan
 
 ## React Component
+Komponen React adalah bagian kode yang dapat digunakan kembali yang digunakan untuk menentukan tampilan, behaviour, dan state sebagian UI
+
+Membuat komponen pada react
+* Function : function biasa pada Javascript
+* Class : extend dari React component
 
 ## Component Kompotition
 
