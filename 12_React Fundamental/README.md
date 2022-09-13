@@ -19,6 +19,8 @@ Pada React, kita dapat membuat komponen berbeda yang mencakup perilaku yang dibu
 ### Render List
 Kita dapat membangun koleksi dari beberapa elemen dan menyertakannya dalam JSX menggunakan tanda kurung kurawal {}
 
+### Key
+
 ## Directory Structure
 
 ## Styling Inline
