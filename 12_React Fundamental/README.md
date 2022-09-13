@@ -34,5 +34,3 @@ Tips menentukan file structure
 * Classes dan CSS
 * Atribut style
 * Modul CSS
-
-## Exercise RF
