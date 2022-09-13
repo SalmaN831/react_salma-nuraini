@@ -1,6 +1,15 @@
 # Section 12 - React Fundamental
 
 ## JSX
+JSX (Javascript XML) adalah ekstensi pada Javascript yang disarankan digunakan di React karena menggambarkan apa yang seharusnya tampak pada UI.
+
+Kenapa menggunakan JSX 
+* JSX dibuat berdasarkan fakta kalau logika rendering sangat terikat dengan logic UI
+* Menggabungkan teknologi dan memisahkan sesuai keperluan
+
+Spesifikasi pada JSX
+* Kapitalisasi untuk komponen React
+* Huruf kecil untuk komponen bawaan
 
 ## React Component
 
