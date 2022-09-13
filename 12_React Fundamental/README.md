@@ -22,6 +22,13 @@ Kita dapat membangun koleksi dari beberapa elemen dan menyertakannya dalam JSX m
 ### Key
 
 ## Directory Structure
+Pendekatan tentang cara memasukkan file ke dalam folder
+* Pengelompokan berdasarkan fitur atau rute
+* Pengelompokan berdasarkan jenis file
+
+Tips menentukan file structure
+* Hindari terlalu banyak nesting
+* Jangan terlalu memikirkannya
 
 ## Styling Inline
 
