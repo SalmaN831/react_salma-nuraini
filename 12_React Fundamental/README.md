@@ -59,6 +59,7 @@ Pada React, kita dapat membuat komponen berbeda yang mencakup perilaku yang dibu
 Kita dapat membangun koleksi dari beberapa elemen dan menyertakannya dalam JSX menggunakan tanda kurung kurawal {}
 
 ### Key
+Key membantu React untuk mengidentifikasi item mana yang telah diubah, ditambahkan, atau dihilangkan
 
 ## Directory Structure
 Pendekatan tentang cara memasukkan file ke dalam folder
