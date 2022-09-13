@@ -34,6 +34,18 @@ Komposisi komponen
 * Spesialisasi
 
 ## React Lifecycle
+React lifecycle adalah sederetan event yang terjadi dari awal komponen muncul sampai menghilang dari aplikasi
+
+Siklus komponen react
+* Render Phase : fungsi harus pure dan tidak ada side effect
+* Pre-commit Phase : membaca DOM
+* Commit Phase : pengolahan DOM dan melakukan side effect
+
+Lifecycle method
+* render() : required pada class component
+* componentDidMount() : dipanggil ketika component sudah di render untuk pertama kali
+* componentDidUpdate() : dipanggil ketika terjadi update
+* componentWillUnmount() : dipanggil ketika component akan dihancurkan
 
 ## Conditional
 ### Render Bersyarat
