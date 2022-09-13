@@ -31,5 +31,8 @@ Tips menentukan file structure
 * Jangan terlalu memikirkannya
 
 ## Styling Inline
+* Classes dan CSS
+* Atribut style
+* Modul CSS
 
 ## Exercise RF
