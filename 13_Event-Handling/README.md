@@ -30,3 +30,12 @@ Perbedaan Component Stateful dan Stateles
 | Meneruskan status dan data ke anaknya | Hanya berkomunikasi dengan induk langsungnya |
 
 ## Event Handling
+Handling Event adalah suatu metode untuk menangani sebuah event/aksi yang diberikan pengguna kepada suatu komponen.
+
+Event adalah suatu peristiwa yang dipicu oleh pengguna pada suatu komponen, misalnya tombol ditekan.
+
+Beberapa contoh list event
+* Clipboard Events (promise terpenuhi)
+* Form Event (onChange, onSubmit)
+* Mouse Event (onClick, onDoubleClick, onMouseOver)
+* Generic Event (onError, onLoad)
