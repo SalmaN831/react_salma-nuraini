@@ -1,0 +1,12 @@
+.selesai {
+    text-decoration: line-through;
+}
+
+header {
+    border-bottom-style: inset;
+    padding-left: 10px;
+}
+
+.pad {
+    padding-left: 15px;
+}
