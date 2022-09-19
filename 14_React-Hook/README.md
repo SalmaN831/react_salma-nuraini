@@ -20,4 +20,5 @@ Hooks pada react :
 Aturan pada hooks :
 1. Hanya panggil hooks di tingkat atas
 2. Hanya panggil hooks dari fungsi-fungsi react
-3. 
+
+
