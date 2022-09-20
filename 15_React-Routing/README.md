@@ -28,3 +28,14 @@ Komponen yang digunakan
 * Route : digunakan sebagai pengarah jalannya lalu lintas suatu aplikasi web.
 * Switch : digunakan untuk membungkus kumpulan beberapa komponen Route.
 * Link : digunakan untuk berpindah antar halaman, property to tersebut merujuk pada path di route yang akan dituju.
+
+## Use url params in React
+Parameter url adalah suatu parameter yang nilainya ditetapkan secara dinamis di URL halaman.
+
+Perbedaan Link dan Redirect
+| Link | Redirect |
+| --- | --- |
+| Dapat digunakan pada kondisi apapun | Lebih sering digunakan pada halaman 404 |
+| Memberikan history baru pada browser | Menimpa history pada browser |
+| Bereaksi dengan click seperti a href | Bereaksi dengan suatu kondisi |
+
