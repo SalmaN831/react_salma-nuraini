@@ -39,3 +39,8 @@ Perbedaan Link dan Redirect
 | Memberikan history baru pada browser | Menimpa history pada browser |
 | Bereaksi dengan click seperti a href | Bereaksi dengan suatu kondisi |
 
+## Hook routing react
+* useHistory : memberi akses ke instance riwayat yang dapat digunakan sebagai navigasi.
+* useLocation : mengembalikan objek lokasi yang mewakili url saat ini.
+* useParams : mengembalikan objek pasangan kunci/nilai parameter url.
+* useRouteMatch : mencoba mencocokkan url saat ini dengan cara yang sama seperti < Route >.
