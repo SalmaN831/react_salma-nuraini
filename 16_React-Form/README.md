@@ -17,3 +17,13 @@ Uncontrolled Component adalah alternatif dari controlled component, dimana data 
 Dalam React, sebuah < input type="file" /> merupakan uncontrolled component karena nilainya hanya bisa disetel oleh pengguna, bukan program.
 
 ## Controlled Component vs Uncontrolled Component
+
+| Fitur | Uncontrolled | Controlled |
+| --- | --- | --- |
+| one-time value retrieval | v | v |
+| validating on submit | v | v |
+| instan field validation | x | v |
+| conditionally disabling submit button | x | v |
+| enforcing input format | x | v |
+| several inputs for one piece data | x | v |
+| dynamics inputs | x | v |
