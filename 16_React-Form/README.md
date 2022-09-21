@@ -9,6 +9,7 @@ Macam form :
 * Radio Button
 * Checkbox
 
+## Controlled Component
 Controlled component adalah sebuah elemen masukan form yang nilainya dikontrol oleh React.
 
 ## Uncontrolled Component
