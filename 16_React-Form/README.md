@@ -58,3 +58,5 @@ Built in form validation
 Kapan validasi menggunakan Javascript digunakan:
 * Ketika ada perubahan di form
 * Ketika menekan tombol submit
+
+## Hasil Praktikum
