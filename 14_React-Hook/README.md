@@ -23,3 +23,6 @@ Hooks merupakan fitur baru pada react 16.8, dengan menggunakannya kita dapat men
 
 ## Custom hooks
 Custom hooks adalah hooks yang dibuat sendiriyang memungkinkan kita mengekstrak komponen logika ke fungsi yang dapat digunakan lagi.
+
+## Screenshoot Hasil Praktikum
+![14_React-Hook](https://user-images.githubusercontent.com/79805395/191871027-830fe8c7-f76e-485c-8dd4-9ff195f27675.png)
