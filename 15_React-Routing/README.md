@@ -46,4 +46,4 @@ Perbedaan Link dan Redirect
 * useRouteMatch : mencoba mencocokkan url saat ini dengan cara yang sama seperti < Route >.
 
 ## Hasil Praktikum
-![Hasil Praktikum](https://user-images.githubusercontent.com/79805395/192106779-aef1c2b3-f878-47e0-a2ff-c714bd6e3d13.png)
+![Hasil](https://user-images.githubusercontent.com/79805395/192106844-e70f6a42-01e2-4f40-bf5b-c92e1c8c7ea2.png)
