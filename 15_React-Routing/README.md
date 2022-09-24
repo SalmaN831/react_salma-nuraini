@@ -44,3 +44,6 @@ Perbedaan Link dan Redirect
 * useLocation : mengembalikan objek lokasi yang mewakili url saat ini.
 * useParams : mengembalikan objek pasangan kunci/nilai parameter url.
 * useRouteMatch : mencoba mencocokkan url saat ini dengan cara yang sama seperti < Route >.
+
+## Hasil Praktikum
+![Hasil Praktikum](https://user-images.githubusercontent.com/79805395/192106779-aef1c2b3-f878-47e0-a2ff-c714bd6e3d13.png)
