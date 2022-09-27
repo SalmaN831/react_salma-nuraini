@@ -60,3 +60,5 @@ Kapan validasi menggunakan Javascript digunakan:
 * Ketika menekan tombol submit
 
 ## Hasil Praktikum
+![Hasil (1)](https://user-images.githubusercontent.com/79805395/192580464-a6181df7-1334-43e0-a3c9-013df6188fbc.png)
+![Hasil (2)](https://user-images.githubusercontent.com/79805395/192580477-b0ea8d9c-a964-429d-807a-77ce8e9f33d2.png)
