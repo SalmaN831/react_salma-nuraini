@@ -22,3 +22,8 @@ Komponen penting pada Redux
 Redux Thunk adalah Thunk middleware untuk redux yang memungkinkan kita membuat action creator yang mengembalikan function bukan action
 
 Redux Thun diperlukan utnuk menghandle side effect logic seperti logic synchronus kompleks yang perlu mengakses store dan juga logic async seperti request data
+
+Cara fetching data di React
+* Fetch API
+* Axios
+* React Query Library
