@@ -27,3 +27,14 @@ Cara fetching data di React
 * Fetch API
 * Axios
 * React Query Library
+
+## Hasil Praktikum
+### Tampilan
+![Hasil Praktikum](https://user-images.githubusercontent.com/79805395/195546323-818768e3-f7a6-4e20-9176-801cfda315db.png)
+## Database dan Restfull API
+![Database dan Restfull API](https://user-images.githubusercontent.com/79805395/195546673-67605b4d-c156-4989-8bf2-d70ee7bcea45.png)
+![Database dan Restfull API (1)](https://user-images.githubusercontent.com/79805395/195546710-a34bb865-4985-4594-af0a-ffc855c54574.png)
+![Database dan Restfull API (2)](https://user-images.githubusercontent.com/79805395/195546724-086b6f6d-6c98-45c7-b43f-fe2b22014fc8.png)
+![Database dan Restfull API (3)](https://user-images.githubusercontent.com/79805395/195546729-f01bb772-5fc8-4137-8cec-fdca33f6c758.png)
+![Database dan Restfull API (4)](https://user-images.githubusercontent.com/79805395/195546734-e4a2e751-4085-42db-ba2a-3b0edf5e2af6.png)
+![Database dan Restfull API (5)](https://user-images.githubusercontent.com/79805395/195546744-27c697c9-b299-44ce-951e-1cc11b6e2dca.png)
