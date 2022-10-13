@@ -31,3 +31,7 @@ Cara deployment dengan Netlify :
 4. Verifikasi akun menggunakan browser, pilih authorized
 5. Pilih "Create & Configure a new site". Untuk team pilih yang suda tersedia. Site name opsional
 6. Pilih lokasi file yang akan dideploy. Pilih ./build
+
+## Hasil Praktikum
+https://taskdeploy-salma_nuraini.surge.sh/
+![Hasil deploy surge](https://user-images.githubusercontent.com/79805395/195565311-ce2570c0-e916-4786-8b76-183d41086591.png)
