@@ -6,3 +6,4 @@ GraphQL adalah query language untuk API, dimana kita bisa mendefine skema dari d
 2. Mutation : digunakan untuk memanipulasi data (insert, update, delete)
 3. Subcription : digunakan untuk mendapatkan data secara realtime
 
+belum selesai
