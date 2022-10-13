@@ -3,7 +3,9 @@ import { createSlice } from "@reduxjs/toolkit";
 export const todoSlice = createSlice({
     name: 'todo',
     initialState: {
-        title: "Mengerjakan Assignment"
+        id: 1,
+        title: "Mengerjakan Assignment",
+        isCompleted: true
     },
     reducers: {
         setTitle: (state, action) => {
