@@ -13,3 +13,7 @@ Query GraphQL :
 * Fragment, potongan logic yang bisa dipakai di beberapa tempat sekaligus, diantara multiple queries dan mutation
 
 Mutation GraphQL :
+Mutation adalah fungsi untuk melalukan CRUD (Create, Update, Delete)
+
+Subscribtion GraphQL :
+Subscribtion adalah fitur yang digunakan server untuk mengirim data kepada client ketika terjadi suatu kondisi spesifik
