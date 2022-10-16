@@ -1,0 +1,1 @@
+# Praktikum GraphQL-Basic
