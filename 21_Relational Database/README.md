@@ -18,3 +18,8 @@ Contoh ERD
 Relasi dalam ERD
 
 ![Relasi ERD](https://user-images.githubusercontent.com/79805395/196090028-c94fca6e-5e3a-4814-be4b-1fc6cd785954.png)
+
+## Relational Database Management System
+Relational Database Management System (RDBMS) adalah software yang menggunakan relational database model sebagai dasarnya, contoh MySQL
+
+Structured Query Language (SQL) adalah bahasa pemrograman khusus yang digunakan untuk manajemen data dalam RDBMS
