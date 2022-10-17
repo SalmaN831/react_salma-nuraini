@@ -12,7 +12,9 @@ Database adalah sekumpulan data yang terorganisir
 Entity Relationship Diagram (ERD) adalah diagram yang digunakan untuk mendesain database sebelum diimplementasikan
 
 Contoh ERD
+
 ![Contoh ERD](https://user-images.githubusercontent.com/79805395/196090030-397731b3-2b76-49f8-b6e2-49fd7e553edf.png)
 
 Relasi dalam ERD
+
 ![Relasi ERD](https://user-images.githubusercontent.com/79805395/196090028-c94fca6e-5e3a-4814-be4b-1fc6cd785954.png)
