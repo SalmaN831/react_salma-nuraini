@@ -23,4 +23,27 @@ Cara setting Apollo Client :
       cache: new InMemoryCache(),
     });
     
-4. 
+4. Connect your client to React
+
+   import ApolloProvider dalam file indeex.js
+   
+   import {  ApolloProvider } from '@apollo/client';
+
+5. Fetch data with UseQuery
+
+   import useQuery dan gql dari @apollo-client
+   
+   import { useQuery, gql } from '@apollo/client';
+   
+   Lalu menyalin query dari GraphQL, sebagai contoh
+   
+   const GET_LOCATIONS = gql`
+     query GetLocations {
+       locations {
+         id
+         name
+         description
+         photo
+       }
+     }
+   `;
