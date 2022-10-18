@@ -1,6 +1,6 @@
 # Section 23 - GraphQL Mutation
 
-Mutation adalah cara kita untuk memanipulasi data GraphQl
+Mutation adalah cara kita untuk memanipulasi data GraphQl seperti melakukan CRUD (Create, Update, Delete)
 
 Cara menggunakan mutation :
 1. Import useMutation dari @apollo-client
