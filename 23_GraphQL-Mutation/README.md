@@ -18,5 +18,3 @@ Cara menggunakan mutation :
 3. Memanggil useMutation
 
     const [mutateFunction, { data, loading, error }] = useMutation(INCREMENT_COUNTER);
-    
-4. 
