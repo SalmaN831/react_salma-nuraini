@@ -60,5 +60,11 @@ Kapan validasi menggunakan Javascript digunakan:
 * Ketika menekan tombol submit
 
 ## Hasil Praktikum
-![Hasil (1)](https://user-images.githubusercontent.com/79805395/192580464-a6181df7-1334-43e0-a3c9-013df6188fbc.png)
-![Hasil (2)](https://user-images.githubusercontent.com/79805395/192580477-b0ea8d9c-a964-429d-807a-77ce8e9f33d2.png)
+### Tampilan awal
+![hasil](https://user-images.githubusercontent.com/79805395/196511793-7833e70a-38a7-424e-aa21-52cb81d66e18.png)
+### Nama error
+![err-nama](https://user-images.githubusercontent.com/79805395/196511797-1ba259b8-ebe6-4f38-a37b-7fefdfb82e39.png)
+### Email error
+![err-email](https://user-images.githubusercontent.com/79805395/196511795-c572073e-f7d6-4de4-bdee-44fc9172bb96.png)
+### Nomor HP error
+![err-nohp](https://user-images.githubusercontent.com/79805395/196511783-768c4d7b-ced1-48e4-8efb-5de240e9913d.png)
