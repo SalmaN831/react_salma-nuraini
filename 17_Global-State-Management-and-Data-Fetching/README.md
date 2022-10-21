@@ -30,7 +30,7 @@ Cara fetching data di React
 
 ## Hasil Praktikum
 ### Tampilan
-![Hasil Praktikum](https://user-images.githubusercontent.com/79805395/195546323-818768e3-f7a6-4e20-9176-801cfda315db.png)
+![Tampilan](https://user-images.githubusercontent.com/79805395/197162781-c2ada0f4-84fb-4c3c-9b8e-e5280271fb37.png)
 ## Database dan Restfull API
 ![Database dan Restfull API](https://user-images.githubusercontent.com/79805395/195546673-67605b4d-c156-4989-8bf2-d70ee7bcea45.png)
 ![Database dan Restfull API (1)](https://user-images.githubusercontent.com/79805395/195546710-a34bb865-4985-4594-af0a-ffc855c54574.png)
