@@ -47,3 +47,6 @@ Cara setting Apollo Client :
        }
      }
    `;
+   
+## Database
+![database](https://user-images.githubusercontent.com/79805395/197372165-648e8de8-de9a-4976-9758-1b0b9a4d0196.png)
