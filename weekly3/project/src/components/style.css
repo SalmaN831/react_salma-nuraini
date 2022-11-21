@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+
+body {
+    font-family: 'Space Grotesk', sans-serif !important;
+    background-image: url('/src/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.text-white {
+    color: white !important;
+}
+
+header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: larger;
+}
+
+.nav_links li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav_links li a{
+    transition: all 0.3s ease 0s;
+}
+
+.nav_links li a:hover{
+    color: skyblue !important;
+}
+
+li, a{
+    color: white;
+    text-decoration: none !important;
+} 
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button {
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(27, 0, 49);
+    border: none;
+    border-radius: 5px;
+    color: white !important;
+    margin-bottom: 200px;
+}
+
+footer {
+    background-color: rgb(27, 0, 49);
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.icon-sosmed {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.about {
+    background-color: white;
+    margin: 20px;
+    padding: 30px 10px 30px 10px ;
+    border-radius: 10px;
+    width: 800px;
+}
